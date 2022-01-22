@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternMethod", "PatternMethod\PatternMethod.csproj", "{AE158613-64F4-4357-A30B-994C7353A328}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE158613-64F4-4357-A30B-994C7353A328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE158613-64F4-4357-A30B-994C7353A328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE158613-64F4-4357-A30B-994C7353A328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE158613-64F4-4357-A30B-994C7353A328}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC9638B2-DB8C-4058-9342-FC57B16AF544}
+	EndGlobalSection
+EndGlobal
